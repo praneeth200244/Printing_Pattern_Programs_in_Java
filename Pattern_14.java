@@ -1,3 +1,4 @@
+//Triangle and inverted triangle
 public class Pattern_14 {
     public static void main(String[] args) {
         int rows=15;
